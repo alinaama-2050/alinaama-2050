@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alinaama-2050
-- 👀 I’m interested in CRM Data, Salesforce CRM, Python, Data Science
-- 🌱 I love Python, testing multiple APi's, specific libs like anonymization
+- 👀 I’m interested in Data Science, CRM Data, Python, Salesforce CRM, Api
+- 🌱 I love Python, testing multiple APi's, specific libs of Data Science
 - 💞️ I’m looking to collaborate on ... : Not defined for the moment
 - 📫 How to reach me : Just send me comments !
 
