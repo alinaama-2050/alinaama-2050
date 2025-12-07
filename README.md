@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alinaama-2050
-- 👀 I’m interested in Data Science, CRM Data, Python, Salesforce CRM, API
-- 🌱 I love Python, testing multiple APi's, specific libs of Data Science for helping Business
+- 👀 I’m interested in AI, Data Science, API, Python, CRM, Microsoft Dynamics, Salesforce CRM 
+- 🌱 I love Python, testing multiple APi's, specific libs of DAI / ata Science for helping Business
 - 💞️ I’m looking to collaborate on Business Challenges linked to CRM
 - 📫 How to reach me : Just send me comments !
 
